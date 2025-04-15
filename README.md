@@ -55,7 +55,7 @@ For questions or collaboration:
 ## 🙏 Acknowledgements
 Thanks to the open-source community for the great works behind Stable Diffusion, LoRA, CLIP, DisenBooth, etc.
 
-
+## 📚 Reference
 
 @article{<br>
     title={Diverse and High-Quality Food Image Generation Only from Food Name},<br>
