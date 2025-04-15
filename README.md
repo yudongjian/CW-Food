@@ -12,7 +12,7 @@
 - Weiqing Min<sup>2</sup>  
 - Xin Jin<sup>1</sup>  
 - Qian Jiang<sup>1</sup>  
-- **Ying Jin<sup>2</sup>**  
+- Ying Jin<sup>2</sup>  
 - Shuqiang Jiang<sup>2</sup>  
 
 <sup>1</sup>Yunnan University  
