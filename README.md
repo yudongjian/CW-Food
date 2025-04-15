@@ -6,7 +6,7 @@
 
 ## 🧾 Paper Information
 
-**Title:** Diverse and High-Quality Food Image Generation Only from Food Name  
+
 **Authors:** Dongjian Yu<sup>1</sup>, Weiqing Min<sup>2</sup>, Xin Jin<sup>1</sup>, Qian Jiang<sup>1</sup>, Ying Jin<sup>2</sup>, Shuqiang Jiang<sup>2</sup>  
 <sup>1</sup>Yunnan University  
 <sup>2</sup>Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences
