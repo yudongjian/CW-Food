@@ -20,7 +20,6 @@
 Institute of Computing Technology, Chinese Academy of Sciences
 
 [[📄 Paper Link (Coming Soon)]]()  
-[[🌐 Project Page (Coming Soon)]]()
 
 ---
 
@@ -43,10 +42,11 @@ Institute of Computing Technology, Chinese Academy of Sciences
 pip install diffusers==0.23.1
 pip install open_clip_torch
 pip install torchvision
-
+```
 ### ▶️ Run
+```bash
 python cw_food101.py
-
+```
 ## 📬 Contact
 For questions or collaboration:
 
