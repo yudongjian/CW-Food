@@ -21,7 +21,7 @@
 
 ## ✨ Highlights
 
-- 🥘 **Text-to-Image Food Generation**: Our model generates high-quality and diverse food images from **food names only**, without any real image input.
+- 🥘 **Text-to-Image Food Generation**: Our model generates high-quality and diverse food images from **food names only**.
 - 🧠 **Multi-modal Feature Fusion**: Combines **common features** (shared semantics) and **private features** (category-specific nuances).
 - 📊 **Strong Performance** on four benchmarks: **Food-101**, **VIREO Food-172**, **ISIA Food-200**, and **Food2K**.
 - ✅ Evaluated with standard metrics: **Inception Score (IS)**, **Fréchet Inception Distance (FID)**, and **CLIP-I**.
