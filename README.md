@@ -59,7 +59,7 @@ Thanks to the open-source community for the great works behind Stable Diffusion,
 
 @article{<br>
     title={Diverse and High-Quality Food Image Generation Only from Food Name},<br>
-    author={Yu, Dongjian and Min, Weiqing and Jin, Xin and Jiang, Qian and Jin, Ying and Jiang, Shuqiang},<br>
+    author={Dongjian Yu and Weiqing Min and Xin Jin and Qian Jiang and Ying Jin and Shuqiang Jiang},<br>
     journal={ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)},<br>
     year={2025}<br>
 }
