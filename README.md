@@ -15,7 +15,7 @@
   <sup>2</sup>Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences
 </p>
 
-[[📄 Paper Link (Coming Soon)]]()  
+[[📄 Paper Link]](https://doi.org/10.1145/3730588)  
 
 ---
 
