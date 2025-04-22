@@ -41,7 +41,30 @@ pip install torchvision
 ```
 ### ▶️ Run
 ```bash
-python cw_food101.py
+type 1:
+   python cw_food101.py
+
+type 2:
+   train:  self_train_CW_food.py
+   generating: ydj_product_image.py
+   
+   accelerate launch self_train_CW_food.py
+      --pretrained_model_name_or_path="/your_path/diffusers_file"
+      --instance_data_dir="/your_path/Data/Food2k_complete/42"
+      --output_dir="output_dir"
+      --instance_prompt="a photo of Home-style_bean_curd"
+      --resolution=512
+      --train_batch_size=2
+      --gradient_accumulation_steps=1
+      --checkpointing_steps=200
+      --learning_rate=5e-5
+      --lr_scheduler="constant"
+      --lr_warmup_steps=0
+      --max_train_steps=40000
+      --validation_prompt="a photo of Home-style_bean_curd"
+      --validation_epochs=200
+      --seed="0"
+      --train_text_encoder
 ```
 ## 📬 Contact
 For questions or collaboration:
